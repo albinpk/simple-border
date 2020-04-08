@@ -1,4 +1,4 @@
-function simpleBorder(opt) {
+export default function simpleBorder(opt) {
   const el = document.querySelectorAll(".add-border");
 
   let addStyle = `border-color: ${
@@ -11,5 +11,3 @@ function simpleBorder(opt) {
 
   el.forEach((e) => (e.style = addStyle));
 }
-
-module.export = simpleBorder;

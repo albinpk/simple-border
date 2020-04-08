@@ -1,0 +1,23 @@
+{
+  "name": "simple-border",
+  "version": "1.0.1",
+  "description": "Add simple borders to your elements in one line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albinpk/simple-border.git"
+  },
+  "keywords": [
+    "border",
+    "simple border"
+  ],
+  "author": "Albin P K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albinpk/simple-border/issues"
+  },
+  "homepage": "https://github.com/albinpk/simple-border#readme"
+}

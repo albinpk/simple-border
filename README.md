@@ -1,8 +1,10 @@
 # Simple border creater
 
+Add borders to your elements easy!
+
 ### Installation
 
-    npm i --save simple-border
+    npm i simple-border
 
 ### Usage
 
