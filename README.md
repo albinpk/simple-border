@@ -1,4 +1,4 @@
-# Simple border creater
+# simple-border
 
 ### Installation
 
