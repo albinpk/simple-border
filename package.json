@@ -1,6 +1,6 @@
 {
   "name": "simple-border",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Add simple borders to your elements in one line",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,13 @@
     "url": "git+https://github.com/albinpk/simple-border.git"
   },
   "keywords": [
+    "simple-border",
+    "simple border",
     "border",
-    "simple border"
+    "css",
+    "style",
+    "react",
+    "color"
   ],
   "author": "Albin P K",
   "license": "ISC",
